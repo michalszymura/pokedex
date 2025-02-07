@@ -26,3 +26,5 @@ go.work.sum
 
 # the binary
 pokedex
+# log
+repl.log
